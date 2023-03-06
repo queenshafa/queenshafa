@@ -10,14 +10,7 @@ You can click the Preview link to take a look at your changes.
   <li>Studying at an IT Boarding School</li>
 </ul>
 <h3>How to reach me:</h3>
-<p align="left"><a href="https://instagram.com/_pengejardeadline" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1024px-Instagram.svg.png" 
-/* Vector */
+<p align="left"><a href="https://instagram.com/_pengejardeadline" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1024px-Instagram.svg.png](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)" 
 
 
-position: absolute;
-left: 0%;
-right: 0%;
-top: 0%;
-bottom: 0%;
-
-background: radial-gradient(179.06% 43.44% at -16.75% 7.2%, #3771C8 0%, #3771C8 12.8%, rgba(102, 0, 255, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;                                                                                      
+                                                                                    
