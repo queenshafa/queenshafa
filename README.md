@@ -8,4 +8,6 @@ You can click the Preview link to take a look at your changes.
 <ul>
   <li>A Junior High School Student</li>
   <li>Studying at an IT Boarding School</li>
-  </ul>
+</ul>
+<h3>How to reach me:</h3>
+<p align="left"><a href="https://instagram.com/_pengejardeadline" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1024px-Instagram.svg.png" 
