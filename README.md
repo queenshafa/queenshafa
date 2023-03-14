@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
   <li>Studying at an IT Boarding School</li>
 </ul>
 <h3>How to reach me:</h3>
-<p align="left"><a href="https://instagram.com/_pengejardeadline" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1024px-Instagram.svg.png](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)" 
 
-
-                                                                                    
+<h1>WIP</h1>
+gatau kapan mau lanjut                                                 
