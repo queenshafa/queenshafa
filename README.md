@@ -10,4 +10,4 @@
 <h3>How to reach me:</h3>
 
 <h1>📈 Github Stats!</h1>
-<img src"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queenshafa&show_icons=true&theme=gradient)">
+<img src"https://github-readme-stats.vercel.app/api?username=queenshafa&show_icons=true&theme=gradient">
