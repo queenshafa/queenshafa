@@ -10,4 +10,4 @@
 <h3>How to reach me:</h3>
 
 <h1>📈 Github Stats!</h1>
-<img src"https://github-readme-stats.vercel.app/api?username=queenshafa&show_icons=true&theme=tokyo_night">
+<img src"https://github-readme-stats.vercel.app/api?username=queenshafa&show_icons=true&theme=TOKYO_NIGHT">
