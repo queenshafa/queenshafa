@@ -28,5 +28,5 @@
 <a href="instagram.com/_pengejardeadline"><img src="./images/instagram.svg" alt="Instagram" width="48px">
 <a href="twitter.com/VElLSlDE"><img src="./images/twitter.svg" alt="Twitter" width="48px">
 <a href="github.com/queenshafa"><img src="./images/github.svg" alt="Github" width="48px">
-<a href="https://www.buymeacoffee.com/queenshafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/queenshafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" width="48px"></a>
 </p>
