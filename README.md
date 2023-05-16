@@ -26,7 +26,7 @@
 <p align="center">
 <h1 align="center"><b>📲 How to reach me!</b></h1>
 <a href="instagram.com/_pengejardeadline"><img src="./images/instagram.svg" alt="Instagram" width="48px">
-<a href="github.com/queenshafa"><img src="./images/github.svg" alt="Github" width="48px">
+<a href="https://github.com/queenshafa"><img src="./images/github.svg" alt="Github" width="48px">
 <a href="twitter.com/VElLSlDE"><img src="./images/Twitter.svg" alt="Github" width="48px"><br>
 <p align="center">
 <a href="https://www.buymeacoffee.com/queenshafa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
