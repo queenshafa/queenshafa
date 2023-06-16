@@ -1,16 +1,16 @@
-<h1>Hi, I'm <a href="https://queenshafa.github.io/">Queenshafa Rania</a>👋</h1>
-<h1 align="center"><b>About Me!</b></h1>
-<ul align="center">
-<li>A Junior High School Student</li>
-<li>Studying at an IT Boarding School</li>
-<li>Still A minor!</li>
+<h1 align="center">Hi, I'm <a href="https://queenshafa.github.io/">Queenshafa Rania</a>👋</h1>
+<h2><b>About Me!</b></h2>
+<ul>
+<li>👀 I'm interested in <b>Web Dev</b> and <b>Backend Dev.</b></li>
+<li>🌱 I'm currently learning <b>Javascript</b>,<b>React</b>and<b>Laravel</b></li>
+<li>📫 How to reach me by <b>google chat</b>and<b><a href="mailto:queenshafaraniabilqis@gmail.com">gmail</a></b></li>
 </ul><br>
-<h1 align="center"><b>📈 Github Stats!<b></h1>
-<p align="center">
+<h2><b>📈 Github Stats!<b></h2>
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=queenshafa&theme=tokyonight&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=queenshafa&theme=tokyonight&hide_title=false&show_icons=true&layout=compact">
 </p><br>
-<h1 align="center"><b>💻 What i'm currently working on</b></h1>
+<h2"><b>💻 What i'm currently working on</b></h2>
 <ul align="center">
 <li>New Portfolio</li>
 <li>Web Jastiper</li>
