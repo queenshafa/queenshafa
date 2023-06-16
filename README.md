@@ -1,5 +1,4 @@
-<p align="center">
-<a href="https://queenshafa.github.io/"><img src="https://github-cardname.caliph.my.id/api?name=Queenshafa%20Rania&description=Hello,%20I%27m%20a%20Junior%20High%2School%20Student%20and%20i%27m%2013%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/98293356?v=4&backgroundColor=%23ecf0f1&instagram=_pengejardeadline&dribble=queenshafarania&github=queenshafa&twitter=VElLSlDE&pattern=leaf&colorPattern=%23eaeaea"></a></p><br>
+<h1>Hi, I'm <a href="https://queenshafa.github.io/">Queenshafa Rania</a>👋</h1>
 <h1 align="center"><b>About Me!</b></h1>
 <ul align="center">
 <li>A Junior High School Student</li>
