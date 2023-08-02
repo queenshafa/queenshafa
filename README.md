@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://queenshafa.github.io/">Queenshafa Rania</a>👋</h1>
 <ul>
 <li>👀 I'm interested in <b>Web Dev</b> and <b>Backend Dev.</b></li>
-<li>🌱 I'm currently learning <b>Javascript</b>,<b>React</b>and<b>Laravel</b></li>
+<li>🌱 I'm currently learning <b>Javascript</b>, <b>React </b>and <b>Laravel</b></li>
 <li>📫 How to reach me by <b>google chat </b>and <b><a href="mailto:queenshafaraniabilqis@gmail.com">gmail</a></b></li>
 </ul><br>
 <p>
