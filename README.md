@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm <a href="https://queenshafa.github.io/">Queenshafa Rania</a>👋</h1>
-<h2><b>About Me!</b></h2>
 <ul>
 <li>👀 I'm interested in <b>Web Dev</b> and <b>Backend Dev.</b></li>
 <li>🌱 I'm currently learning <b>Javascript</b>,<b>React</b>and<b>Laravel</b></li>
