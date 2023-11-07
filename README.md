@@ -1,41 +1,61 @@
-<h1 align="center">Hi 👋, I'm Queenshafa R.</h1>
-<h3 align="center">A Junior Web Developers from Indonesia</h3>
+<h2 align="left">Hi 👋! I'm Queenshafa R, A Website Dev</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=queenshafa&label=Profile%20views&color=0e75b6&style=flat" alt="queenshafa" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=queenshafa" alt="queenshafa" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=queenshafa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=queenshafa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on **School Organization Web.**
+###
 
-- 🌱 I’m currently learning **Frameworks, Backend.**
+<img align="right" height="150" src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/0/0d/Kirara.JPG?width=1280"  />
 
-- 🤝 I’m looking for help with **Backend Stuff.**
+###
 
-- 📝 I regularly write articles on [https://medium.com/@queenshafa](https://medium.com/@queenshafa)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+</div>
 
-- 💬 Ask me about **Dad Jokes**
+###
 
-- 📫 How to reach me **queenshafadev@gmail.com**
+<div align="left">
+  <a href="https://instagram.com/queenshfran" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:queenshafadev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://medium.com/@queenshafa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://twitter.com/VElLSlDE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-- ⚡ Fun fact **I eat salt when I code.**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vellslde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vellslde" height="30" width="40" /></a>
-<a href="https://instagram.com/queenshfran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="queenshfran" height="30" width="40" /></a>
-<a href="https://dribbble.com/queenshafarania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="queenshafarania" height="30" width="40" /></a>
-<a href="https://www.behance.net/queenshafarania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="queenshafarania" height="30" width="40" /></a>
-<a href="https://medium.com/@queenshafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@queenshafa" height="30" width="40" /></a>
-</p>
+<br clear="both">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://raw.githubusercontent.com/queenshafa/queenshafa/output/snake.svg" alt="Snake animation" />
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/queenshafa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="queenshafa" /></a></p><br><br>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=queenshafa&show_icons=true&locale=en&layout=compact" alt="queenshafa" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/queenshafa/count.svg?"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=queenshafa&show_icons=true&locale=en" alt="queenshafa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=queenshafa&" alt="queenshafa" /></p>
+###
