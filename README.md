@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Queenshafa R, A Website Dev</h2>
+<h2 align="center">Hi 👋! I'm Queenshafa R, A Website Dev</h2>
 
 ###
 
@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/queenshafa/queenshafa/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+<!-- <img src="https://github.com/queenshafa/queenshafa/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
 
 ###
 
