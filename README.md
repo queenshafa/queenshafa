@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/queenshafa/queenshafa/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/queenshafa/queenshafa/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 
 ###
 
