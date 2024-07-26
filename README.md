@@ -11,7 +11,9 @@
 
 ###
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66a1cd9623c186c28d65325d?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
+<p align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66a1cd9623c186c28d65325d?variant=dark&roadmaps=frontend"  alt="roadmap.sh"/></a>
+</p>
 
 ###
 
