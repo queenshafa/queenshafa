@@ -11,8 +11,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/queenshafa/count.svg?"  />
+<div align='center'>
+<img src="https://komarev.com/ghpvc/?username=queenshafa">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/queenshafa?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+<br>
 
 ###
